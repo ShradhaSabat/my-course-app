@@ -22,16 +22,16 @@
                 <version>1.0</version>
 
                 <executions>
-<!--                    <execution>-->
-<!--                        <id>install node and npm</id>-->
-<!--                        <goals>-->
-<!--                            <goal>install-node-and-npm</goal>-->
-<!--                        </goals>-->
-<!--                        <configuration>-->
-<!--                            <nodeVersion>v14.17.0</nodeVersion>-->
-<!--                            <npmVersion>7.17.0</npmVersion>-->
-<!--                        </configuration>-->
-<!--                    </execution>-->
+                    <execution>
+                        <id>install node and npm</id>
+                        <goals>
+                            <goal>install-node-and-npm</goal>
+                        </goals>
+                        <configuration>
+                            <nodeVersion>v14.17.0</nodeVersion>
+                            <npmVersion>7.17.0</npmVersion>
+                        </configuration>
+                    </execution>
 
                     <execution>
                         <id>npm install</id>
